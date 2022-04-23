@@ -5,6 +5,7 @@ O projeto utiliza:
   * .NET Core com C# na versão 6.0 
   * EntityFrameworkCore na versão 6.0.4
   * EntityFrameworkCore.InMemory na versão 6.0.4 para armazenamento dos dados em memória. 
+
 O projeto contém o BackEnd da aplicação, enquanto o FrontEnd está no repositório DescontroladaFrontend (https://github.com/onequeiroz/DescontroladaFrontEnd).
 
 # Demanda
@@ -15,6 +16,7 @@ O projeto contém o BackEnd da aplicação, enquanto o FrontEnd está no reposit
     * Não orgânico.
 
 2. Página para exibição dos produtos cadastrados, que deverá mostrar apenas 5 itens por página (de uma grid/tabela).
+
 3. O sistema também deve possuir um menu que permita a navegação entre as duas páginas.
 
 # Rodando a aplicação
